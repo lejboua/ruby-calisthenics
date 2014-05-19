@@ -1,6 +1,10 @@
 Ruby Calisthenics
 =================
 
+Comment added by lejboua, 2014-05-19, to test the permissions 
+to change this submodule
+
+
 The goal of this multi-part assignment is to get you accustomed to basic
 Ruby coding and introduce you to RSpec, the unit testing tool we will be
 using heavily.
