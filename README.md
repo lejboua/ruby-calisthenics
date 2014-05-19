@@ -3,6 +3,7 @@ Ruby Calisthenics
 
 Comment added by lejboua, 2014-05-19, to test the permissions 
 to change this submodule
+
 Second comment to test/learn local/remote branches
 
 
