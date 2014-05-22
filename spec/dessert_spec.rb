@@ -43,7 +43,7 @@ describe Dessert do
   end
 end
 
-describe JellyBean, :pending => true do
+describe JellyBean do
   describe 'when non-licorice' do
     before :each do
       @subject = JellyBean.new('vanilla')
